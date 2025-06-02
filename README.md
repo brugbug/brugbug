@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brugbug
-- 👀 I’m interested in creating games, software, and front-end development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on projects I find interesting (games, fun programs, etc.)
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently learning Next.js and Python FastAPI
+- 💞️ I’m looking to collaborate on projects I find interesting
 - 📫 How to reach me brugbug001@gmail.com
 
 <!---
